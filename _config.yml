@@ -1,6 +1,7 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
+baseurl: /javadogs/
 url: https://javadog.github.io
 title: Cryptographic Web Store
 email: developers@javadog.io
