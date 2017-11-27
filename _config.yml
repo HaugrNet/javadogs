@@ -1,8 +1,7 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-baseurl: /cws-website/
-url: http://cws.javadog.io
+url: https://javadog.github.io
 title: Cryptographic Web Store
 email: developers@javadog.io
 author: Kim N. Jensen
